@@ -1,2 +1,2 @@
-# fishEye
-Team FishEye - Detecting Microplastics using Impedance Spectroscopy
+# EcoTech
+Team EcoTech - Detecting Microplastics using Impedance Spectroscopy
